@@ -1,12 +1,12 @@
 # 哔哩哔哩网络天气时钟小电视
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0617/230429_b30978e9_5087908.jpeg "IMG20200613233241.jpg")
+<img src="https://images.gitee.com/uploads/images/2020/0617/230429_b30978e9_5087908.jpeg" alt="输入图片说明" title="IMG20200613233241.jpg" style="zoom:25%;" />
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0617/230541_20adbcdf_5087908.jpeg "IMG_20200617_224738.jpg")
+<img src="https://images.gitee.com/uploads/images/2020/0617/230541_20adbcdf_5087908.jpeg" alt="输入图片说明" title="IMG_20200617_224738.jpg" style="zoom:25%;" />
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0617/230559_cbc6bc5a_5087908.jpeg "IMG_20200617_224743.jpg")
+<img src="https://images.gitee.com/uploads/images/2020/0617/230559_cbc6bc5a_5087908.jpeg" alt="输入图片说明" title="IMG_20200617_224743.jpg" style="zoom:25%;" />
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0617/230621_ccbda3e3_5087908.jpeg "IMG_20200617_224735.jpg")
+<img src="https://images.gitee.com/uploads/images/2020/0617/230621_ccbda3e3_5087908.jpeg" alt="输入图片说明" title="IMG_20200617_224735.jpg" style="zoom:25%;" />
 
 ## 材料
 | 材料         | 规格                                 | 参考价格 |
@@ -22,11 +22,11 @@
 | 螺钉         | M2*10                                | 1元      |
 | USB转TTL     | 有3.3V的                             | 3-5元    |
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0617/230653_45f7f066_5087908.jpeg "-1166303184.jpg")
+<img src="https://images.gitee.com/uploads/images/2020/0617/230653_45f7f066_5087908.jpeg" alt="输入图片说明" title="-1166303184.jpg" style="zoom:25%;" />
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0617/230719_49afc554_5087908.jpeg "1709542121.jpg")
+<img src="https://images.gitee.com/uploads/images/2020/0617/230719_49afc554_5087908.jpeg" alt="输入图片说明" title="1709542121.jpg" style="zoom:25%;" />
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0617/230735_cbb3c06a_5087908.jpeg "1320946652.jpg")
+<img src="https://images.gitee.com/uploads/images/2020/0617/230735_cbb3c06a_5087908.jpeg" alt="输入图片说明" title="1320946652.jpg" style="zoom:25%;" />
 
 ## 焊接/连线  
 上传程序接线

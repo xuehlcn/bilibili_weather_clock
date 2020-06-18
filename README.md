@@ -23,11 +23,29 @@
 ## 焊接/连线  
 上传程序接线
 
+| ESP01S | USB-TTF |
+| ------ | ------- |
+| GND    | GND     |
+| 3.3V   | 3.3V    |
+| RX     | TX      |
+| TX     | RX      |
+| EN     | 3.3V    |
+| IO0    | GND     |
+
+
+
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0612/131411_697c1bdf_5087908.png "上传程序接线.png")
 
 主电路接线
 
-（注意ESP01模块的VCC是接在OLED屏幕的3.3V稳压管的引脚上哦，还有就是你的模块引脚跟图片可能不一样，注意区分，灵活变通）
+（注意ESP01模块的VCC是接在OLED屏幕的3.3V降压管的引脚上哦，还有就是你的模块引脚跟图片可能不一样，注意区分，灵活变通）
+
+| ESP01S | OLED       |
+| ------ | ---------- |
+| 3.3V   | 3.3V降压管 |
+| GND    | GND        |
+| IO0    | SDA        |
+| IO2    | SCL        |
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0612/131420_d34f4364_5087908.png "电路接线.png")
 

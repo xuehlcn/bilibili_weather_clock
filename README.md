@@ -1,5 +1,7 @@
 # 哔哩哔哩网络天气时钟小电视（太极创客小凯制作）
 
+### 观看该项目可点击视频地址：https://www.bilibili.com/video/BV1FV411k7Pq/
+
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0617/232144_8529b92d_5087908.jpeg "IMG20200613233241.jpg")
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0617/232201_8bbc5691_5087908.png "屏幕截图.png")

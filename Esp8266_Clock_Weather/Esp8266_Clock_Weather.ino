@@ -27,7 +27,8 @@ const char* WIFI_PWD = "12345678k";
 
 const char* BILIBILIID = "167480182";  //填写你的B站账号
 
-const char* HEFENG_KEY = "cb5ba89ae60c41e692f1a38c1d6def77";//填写你的和风天气秘钥 cb40a8606b6046dca489c7056fb529aa
+//由于太多人使用我的秘钥，导致获取次数超额，所以不提供秘钥了，大家可以到https://dev.heweather.com/获取免费的
+const char* HEFENG_KEY = "xxxxxxxxxxxxxxxxxxxxxx";//填写你的和风天气秘钥
 const char* HEFENG_LOCATION = "CN101290703";//填写你的城市ID,可到https://where.heweather.com/index.html查询
 //const char* HEFENG_LOCATION = "auto_ip";//自动IP定位
 
